@@ -17,7 +17,7 @@ closeShopping.addEventListener('click', () => {
 let firstProduct = [
     {
         id: 1,
-        name: 'КОКТЕЙЛИ',
+        name: 'КОКТЕЙЛЬ',
         image: '1.png',
         prices: {
             350: 180,
